@@ -6,6 +6,22 @@ The dataset includes personal information such as age, sex, BMI, number of child
 
 This dataset provides a valuable opportunity to apply data analysis and machine learning techniques such as exploratory data analysis (EDA), data visualization, and correlation analysis.
 
+### Quality Issues:
+
+- Missing demographic or health information (e.g., BMI or smoking status).
+- Outliers in medical costs for extreme cases (e.g., catastrophic health events).
+- Imbalanced data: higher representation of non-smokers or certain age groups.
+
+Cleaning/Transformation:
+- Impute missing values using median (e.g., for BMI) or mode (e.g., for smoking status).
+- Log-transform medical costs to reduce skewness in the distribution.
+- Encode categorical variables like "smoking status" using one-hot encoding.
+
+Known Limitations:
+- Does not include medical history, which might influence costs significantly.
+- Potential regional or socioeconomic biases in the dataset.
+- Data might not reflect costs for individuals without insurance.
+
 ## Dataset
 
 The dataset contains the following columns:
