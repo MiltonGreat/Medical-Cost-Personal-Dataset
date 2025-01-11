@@ -2,7 +2,7 @@
 
 ## Overview
 
-The dataset includes personal information such as age, sex, BMI, number of children, smoking status, and the region of residence, along with the corresponding medical insurance charges for each individual. The goal of this project is to explore how different factors (such as age, BMI, and smoking status) impact the medical insurance cost and to build a better understanding of the distribution of these expenses.
+This project involves the analysis of a dataset containing personal attributes such as age, sex, BMI, number of children, smoking status, region of residence, and corresponding medical insurance charges for individuals. The goal is to explore how these factors impact medical insurance costs, understand the distribution of expenses, and preprocess the data for further analysis or modeling.
 
 ## Project Overview
 
