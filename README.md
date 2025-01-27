@@ -59,4 +59,4 @@ The following visualizations were created:
 
 ## Source
 
-https://www.kaggle.com/datasets/mirichoi0218/insurance
+Dataset: [Medical Cost Dataset on Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
